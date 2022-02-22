@@ -1,0 +1,124 @@
+body{
+  background-color: #000;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5rem;
+}
+
+h1{
+  font-size: 2rem;
+}
+
+a{
+  color: #fff;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 2.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  color: #fff;
+}
+
+#title{
+  padding: 6% 7%;
+  text-align: center;
+  color: #52616b;
+}
+
+.explore-button{
+  margin: 3%;
+}
+
+#about{
+  background-color: #52616b;
+  color: #fff;
+  text-align: center;
+  padding: 7% 12%;
+}
+
+.icon{
+  margin-bottom: 2rem;
+}
+
+.icon:hover{
+  color: #000;
+}
+
+#work{
+  background-color: #000;
+  color: #52616b;
+  text-align: center;
+  padding: 10% 15%;
+}
+
+#work-header{
+  color: #fff;
+  font-size: 3.5rem;
+  padding-bottom: 20px;
+}
+#reviews{
+  background-color: #52616b;
+  text-align: center;
+  padding: 7% 15%;
+  margin: 5% auto 5%;
+}
+
+#review-header{
+  color: #fff;
+  font-size: 3.5rem;
+  padding-bottom: 20px;
+}
+
+.contact{
+  text-align: center;
+}
+.contact-img{
+  margin: 2px;
+  padding: 4px;
+}
+
+.contact-me-me{
+  line-height: 2;
+  text-align: center;
+}
+
+.promo-header{
+  color: #52616b;
+}
+
+.footer{
+  background-color: #52616b;
+}
+#footer{
+  text-align: center;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
+.social-icon:hover{
+  cursor: pointer;
+  color: #52616b;
+}
+.avatar{
+  width: 210px;
+}
+
+img{
+  outline: 1px solid;
+}
+
+.copyright{
+  color: #52616b;
+}
